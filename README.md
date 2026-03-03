@@ -43,7 +43,8 @@ npm run dev
 
 - **Ana Sayfa – Genel görünüm**
 
-  ![Ana sayfa](koah-app/mobile/docs/screenshots/home.png)
+  ![Ana sayfa](koah-app/mobile/docs/WhatsApp Image 2026-03-03 at 10.49.56 (1).jpeg
+)
 
 - **Ana Sayfa – Günün egzersizi & kartlar**
 
