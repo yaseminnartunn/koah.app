@@ -48,7 +48,8 @@ npm run dev
 
 - **Ana Sayfa – Günün egzersizi & kartlar**
 
-  ![Ana sayfa - günün egzersizi](koah-app/mobile/docs/screenshots/home-warmup.png)
+![Ana sayfa - günün egzersizi](Koah-app/docs/WhatsApp%20Image%202026-03-03%20at%2010.49.56%20(2).jpeg)
+
 
 - **Kategori filtreleme (Tümü / Nefes / Isınma / Güçlendirme / Germe)**
 
