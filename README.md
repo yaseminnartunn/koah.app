@@ -105,5 +105,5 @@ Uygulama kodu ve arayüzü sorunsuz çalışıyor. Bu yüzden:
 ## Teslim Gecikme Notu
 
 Hocam, projeyi **geç saatte teslim etmemin sebebi** derste bilgisayar şarj aletimi okula getirmeyi unutmuş olmam.  
-Bu yüzden derste veya hemen sonrasında projeyi GitHub’a ve sisteme yükleyemedim; 
+Bu yüzden derste veya hemen sonrasında projeyi GitHub’a ve sisteme yükleyemedim.
 
