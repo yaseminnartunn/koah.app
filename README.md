@@ -63,7 +63,11 @@ npm run dev
 
 - **Profil / İlerleme Takibi Ekranı**
 
-  ![Profil ve istatistikler](koah-app/mobile/docs/screenshots/profile.png)
+![Profil ve istatistikler 1](Koah-app/docs/WhatsApp%20Image%202026-03-03%20at%2010.49.54.jpeg)
+![Profil ve istatistikler 2](Koah-app/docs/WhatsApp%20Image%202026-03-03%20at%2010.49.57%20(1).jpeg)
+![Profil ve istatistikler 3](Koah-app/docs/WhatsApp%20Image%202026-03-03%20at%2010.49.54%20(1).jpeg)
+![Profil ve istatistikler 4](Koah-app/docs/WhatsApp%20Image%202026-03-03%20at%2010.49.53.jpeg)
+
 
 ## Pano ile Karşılaştırma (İlham + Benim Katkım)
 
