@@ -100,7 +100,8 @@ Uygulama kodu ve arayüzü sorunsuz çalışıyor. Bu yüzden:
 - Tüm ekranların (ana sayfa, listeleme, detay, profil) **ekran videosunu** aldım,
 - Bu videoyu, uygulamanın gerçekten çalıştığını göstermek için teslim ediyorum.
 
-[Video: Uygulama Demo Kaydı](docs/koah-egzersiz-demo.mp4)
+- [Video: Uygulama Demo Kaydı (Raw/İndir)](https://raw.githubusercontent.com/yaseminnartunn/koah.app/main/Koah-app/docs/koah-egzersiz-demo.mp4)
+- [Video: Uygulama Demo Kaydı (Repo dosyası)](docs/koah-egzersiz-demo.mp4)
 
 ## Teslim Gecikme Notu
 
