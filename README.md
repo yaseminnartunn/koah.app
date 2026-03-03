@@ -78,9 +78,9 @@ npm run dev
 - **Hata yönetimi**: Kaydetme aşamasında hata olursa kullanıcıya uyarı gösterimi
 - **Component mimarisi**: Tekrarlanan UI parçaları `StatsCard`, `ExerciseCard`, `CategoryFilter` gibi component’lere ayrıldı
 
-## Expo Linki / APK (Teslim Opsiyonları)
-- **Expo linki (Expo Go)**: `koah-app/mobile/README.md` içindeki “EAS Update” adımlarını uygulayıp çıkan linki paylaş.
-- **APK**: `koah-app/mobile/README.md` içindeki `eas build -p android --profile apk` adımıyla APK build al.
+
+
+
 
 ## Teslimat Notu
 - **Hedef kitle**: KOAH hastaları ve yakınları
@@ -101,9 +101,10 @@ Uygulama kodu ve arayüzü sorunsuz çalışıyor. Bu yüzden:
 - Bu videoyu, uygulamanın gerçekten çalıştığını göstermek için teslim ediyorum.
 
 [Video: Uygulama Demo Kaydı](docs/koah-egzersiz-demo.mp4)
+[youtube linki: https://youtube.com/shorts/I_5fAv5AuhM?si=ln40xoI-Q6wUtekg ]
 
 ## Teslim Gecikme Notu
 
 Hocam, projeyi **geç saatte teslim etmemin sebebi** derste bilgisayar şarj aletimi okula getirmeyi unutmuş olmam.  
-Bu yüzden derste veya hemen sonrasında projeyi GitHub’a ve sisteme yükleyemedim; eve gelip cihazımı şarja taktıktan sonra kodları ve dokümantasyonu tamamlayıp teslim edebildim.
+Bu yüzden derste veya hemen sonrasında projeyi GitHub’a ve sisteme yükleyemedim; 
 
