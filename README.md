@@ -58,7 +58,8 @@ npm run dev
 
 - **Egzersiz Detay Ekranı**
 
-  ![Egzersiz detay](koah-app/mobile/docs/screenshots/detail.png)
+![Egzersiz detay](Koah-app/docs/WhatsApp%20Image%202026-03-03%20at%2010.49.54%20(1).jpeg)
+
 
 - **Profil / İlerleme Takibi Ekranı**
 
