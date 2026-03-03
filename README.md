@@ -53,7 +53,8 @@ npm run dev
 
 - **Kategori filtreleme (Tümü / Nefes / Isınma / Güçlendirme / Germe)**
 
-  ![Kategori filtresi](koah-app/mobile/docs/screenshots/category-filter.png)
+![Kategori filtresi](Koah-app/docs/WhatsApp%20Image%202026-03-03%20at%2010.49.56%20(2).jpeg)
+
 
 - **Egzersiz Detay Ekranı**
 
