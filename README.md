@@ -90,16 +90,4 @@ npm run dev
 
 
 
-## Teslimat Notu
-- **Hedef kitle**: KOAH hastaları ve yakınları
-- **Çözmek istediği problem**: Egzersizlere erişimi kolaylaştırmak, temel bilgilendirme sağlamak ve düzenli egzersizi teşvik etmek
-- **Panodan ilham**: Sade arayüz, okunabilir kart yapısı, tutarlı renk paleti ve net başlık hiyerarşisi
-
-
-
-
-## Teslim Gecikme Notu
-
-Hocam, projeyi **geç saatte teslim etmemin sebebi** derste bilgisayar şarj aletimi okula getirmeyi unutmuş olmam.  
-Bu yüzden derste veya hemen sonrasında projeyi GitHub’a ve sisteme yükleyemedim.
-
+.
