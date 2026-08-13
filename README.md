@@ -95,20 +95,8 @@ npm run dev
 - **Çözmek istediği problem**: Egzersizlere erişimi kolaylaştırmak, temel bilgilendirme sağlamak ve düzenli egzersizi teşvik etmek
 - **Panodan ilham**: Sade arayüz, okunabilir kart yapısı, tutarlı renk paleti ve net başlık hiyerarşisi
 
-## Çalışma Durumu ve Video Kaydı
 
-Hocam merhaba,
 
-Yaklaşık **2 gün boyunca** hem **APK çıktısı** hem de **Expo Go üzerinden paylaşılabilir link (EAS Build)** alabilmek için uğraştım.  
-EAS Build tarafında Windows/OneDrive izinlerinden kaynaklanan `EPERM: operation not permitted` hataları ve Gradle tarafında JDK sürüm uyumsuzluğu yaşadığım için, build işlemlerini tamamlayamadım.
-
-Uygulama kodu ve arayüzü sorunsuz çalışıyor. Bu yüzden:
-
-- Uygulamayı gerçek cihazımda **Expo Go** ile ayağa kaldırdım,
-- Tüm ekranların (ana sayfa, listeleme, detay, profil) **ekran videosunu** aldım,
-- Bu videoyu, uygulamanın gerçekten çalıştığını göstermek için teslim ediyorum.
-
-[youtube linki: https://youtube.com/shorts/I_5fAv5AuhM?si=ln40xoI-Q6wUtekg ]
 
 ## Teslim Gecikme Notu
 
